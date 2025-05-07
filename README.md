@@ -4,5 +4,5 @@ can GET, PUT and DELETE content from a Mongo database (MongoDB Atlas).
 ```
 
 ```txt
-Open [index.ts](https://tronefilms.oreneta.workers.dev/) to try.
+Open https://tronefilms.oreneta.workers.dev/ to try.
 ```
